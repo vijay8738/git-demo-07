@@ -12,6 +12,10 @@ public class App {
 		if (data.equals("git-demo")) {
 			System.out.println("Welcome");
 		}
+		
+		public void methdodTwo(){
+		System.out.println("Hello from method two");
+		}
 	}
 
 	public static void main(String[] args) {
